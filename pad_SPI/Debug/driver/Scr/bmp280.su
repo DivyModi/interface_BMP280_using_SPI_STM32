@@ -1,0 +1,6 @@
+../driver/Scr/bmp280.c:20:9:SPI_Read_Register	24	static
+../driver/Scr/bmp280.c:33:6:SPI_Write_Register	24	static
+../driver/Scr/bmp280.c:44:6:BMP280_init	16	static
+../driver/Scr/bmp280.c:51:6:BMP280_get_calib_values	40	static
+../driver/Scr/bmp280.c:73:6:BMP280_get_status	16	static
+../driver/Scr/bmp280.c:85:6:BMP280_calc_values	64	static
